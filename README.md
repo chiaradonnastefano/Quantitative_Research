@@ -14,7 +14,7 @@ This repository contains two mini-projects completed as part of the **JPMorgan C
 - **Contract Pricing:** Applied the model to estimate future prices for informed decision-making in natural gas storage contracts.  
 
 For a detailed report, visit:  
-🔗 [Prototype of a Pricing Model - Portfolio]( url)  
+🔗 [Prototype of a Pricing Model - Portfolio](https://github.com/chiaradonnastefano/Quantitative_Research/blob/fd0ca31dee8472090cd60efc656540dbcc145bd4/Pricing%20Contracts.ipynb)  
 
 ---
 
@@ -26,7 +26,7 @@ For a detailed report, visit:
 - **Model Training & Optimization:** Trained a **Random Forest Classifier**, fine-tuned hyperparameters, and evaluated performance using AUC-ROC and a confusion matrix.  
 - **Expected Loss Calculation:** Estimated potential financial losses based on probability of default (PD), loan amount, and recovery rates.  
 
-🔗 [Credit Risk Analysis - Portfolio](url)  
+🔗 [Credit Risk Analysis - Portfolio](https://github.com/chiaradonnastefano/Quantitative_Research/blob/fd0ca31dee8472090cd60efc656540dbcc145bd4/Credit_Risk.ipynb)  
 
 #### **FICO Score Quantization (Sub-Task)**  
 - Implemented quantization techniques (MSE-based and log-likelihood methods) to categorize FICO scores into risk buckets for better model generalization.  
