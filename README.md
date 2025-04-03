@@ -1,7 +1,3 @@
-Here’s a polished, plagiarism-free README for your GitHub repository:  
-
----
-
 # JPMorgan Chase Quantitative Research Virtual Experience  
 
 This repository contains two mini-projects completed as part of the **JPMorgan Chase Quantitative Research (QR) Virtual Experience** hosted on Forage. These projects provide insights into financial modeling and risk analysis through practical applications.  
